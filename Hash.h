@@ -1,10 +1,4 @@
-//
-//  Header.h
-//  Cplusplus11
-//
-//  Created by Sagar J on 2/16/15.
-//  Copyright (c) 2015 Sagar J. All rights reserved.
-//
+
 
 #ifndef Cplusplus11_Hash_h
 #define Cplusplus11_Hash_h
