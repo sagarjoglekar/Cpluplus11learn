@@ -13,7 +13,7 @@
 
 using namespace std;
 
-int main() {
+int test() {
     std::string str1 = "You are acrueal world";
     hashCompare* obj1 = new hashCompare(&str1);
     cout<< " The set String is : " << *obj1->getText();
@@ -38,6 +38,7 @@ int main() {
         cerr << "Exception: " << ex.what() <<endl;
         return -1;
     }
+    return 0;
 
 }
 
